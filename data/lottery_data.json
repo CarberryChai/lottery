@@ -1,5 +1,689 @@
 [
   {
+    "period": "2026012",
+    "date": "2026-01-27",
+    "red_balls": [
+      3,
+      5,
+      7,
+      16,
+      20,
+      24
+    ],
+    "blue_ball": 8,
+    "first_prize_count": 8,
+    "first_prize_amount": 6799445,
+    "second_prize_count": 65,
+    "second_prize_amount": 276837,
+    "sales_amount": 358422924,
+    "pool_amount": 2925358915
+  },
+  {
+    "period": "2026011",
+    "date": "2026-01-25",
+    "red_balls": [
+      2,
+      3,
+      4,
+      20,
+      31,
+      32
+    ],
+    "blue_ball": 4,
+    "first_prize_count": 3,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 77,
+    "second_prize_amount": 388911,
+    "sales_amount": 394441490,
+    "pool_amount": 2925771107
+  },
+  {
+    "period": "2026010",
+    "date": "2026-01-22",
+    "red_balls": [
+      4,
+      9,
+      10,
+      15,
+      19,
+      26
+    ],
+    "blue_ball": 12,
+    "first_prize_count": 19,
+    "first_prize_amount": 5702151,
+    "second_prize_count": 223,
+    "second_prize_amount": 74780,
+    "sales_amount": 358486254,
+    "pool_amount": 2865932466
+  },
+  {
+    "period": "2026009",
+    "date": "2026-01-20",
+    "red_balls": [
+      3,
+      6,
+      13,
+      19,
+      23,
+      25
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 9,
+    "first_prize_amount": 6911676,
+    "second_prize_count": 276,
+    "second_prize_amount": 77921,
+    "sales_amount": 347159860,
+    "pool_amount": 2924245047
+  },
+  {
+    "period": "2026008",
+    "date": "2026-01-18",
+    "red_balls": [
+      6,
+      9,
+      16,
+      27,
+      31,
+      33
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 6,
+    "first_prize_amount": 8725252,
+    "second_prize_count": 107,
+    "second_prize_amount": 261115,
+    "sales_amount": 388652642,
+    "pool_amount": 2921931052
+  },
+  {
+    "period": "2026007",
+    "date": "2026-01-15",
+    "red_balls": [
+      9,
+      13,
+      19,
+      27,
+      29,
+      30
+    ],
+    "blue_ball": 1,
+    "first_prize_count": 7,
+    "first_prize_amount": 7349262,
+    "second_prize_count": 149,
+    "second_prize_amount": 137960,
+    "sales_amount": 360236814,
+    "pool_amount": 2890464389
+  },
+  {
+    "period": "2026006",
+    "date": "2026-01-13",
+    "red_balls": [
+      2,
+      6,
+      22,
+      23,
+      24,
+      28
+    ],
+    "blue_ball": 15,
+    "first_prize_count": 2,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 147,
+    "second_prize_amount": 178496,
+    "sales_amount": 352228044,
+    "pool_amount": 2880241083
+  },
+  {
+    "period": "2026005",
+    "date": "2026-01-11",
+    "red_balls": [
+      1,
+      20,
+      22,
+      27,
+      30,
+      33
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 4,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 66,
+    "second_prize_amount": 400264,
+    "sales_amount": 387903486,
+    "pool_amount": 2821524165
+  },
+  {
+    "period": "2026004",
+    "date": "2026-01-08",
+    "red_balls": [
+      3,
+      7,
+      8,
+      9,
+      18,
+      32
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 4,
+    "first_prize_amount": 8704419,
+    "second_prize_count": 128,
+    "second_prize_amount": 144703,
+    "sales_amount": 361167416,
+    "pool_amount": 2782271788
+  },
+  {
+    "period": "2026003",
+    "date": "2026-01-06",
+    "red_balls": [
+      5,
+      6,
+      9,
+      21,
+      28,
+      30
+    ],
+    "blue_ball": 16,
+    "first_prize_count": 3,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 130,
+    "second_prize_amount": 190247,
+    "sales_amount": 352267432,
+    "pool_amount": 2761523177
+  },
+  {
+    "period": "2026002",
+    "date": "2026-01-04",
+    "red_balls": [
+      1,
+      5,
+      7,
+      18,
+      30,
+      32
+    ],
+    "blue_ball": 2,
+    "first_prize_count": 12,
+    "first_prize_amount": 6797096,
+    "second_prize_count": 119,
+    "second_prize_amount": 226524,
+    "sales_amount": 377330734,
+    "pool_amount": 2717326577
+  },
+  {
+    "period": "2026001",
+    "date": "2026-01-01",
+    "red_balls": [
+      2,
+      6,
+      11,
+      12,
+      13,
+      33
+    ],
+    "blue_ball": 15,
+    "first_prize_count": 4,
+    "first_prize_amount": 9520395,
+    "second_prize_count": 154,
+    "second_prize_amount": 146766,
+    "sales_amount": 348080190,
+    "pool_amount": 2718022399
+  },
+  {
+    "period": "2025151",
+    "date": "2025-12-30",
+    "red_balls": [
+      8,
+      9,
+      14,
+      22,
+      28,
+      30
+    ],
+    "blue_ball": 4,
+    "first_prize_count": 6,
+    "first_prize_amount": 7732391,
+    "second_prize_count": 125,
+    "second_prize_amount": 163943,
+    "sales_amount": 369383528,
+    "pool_amount": 2688298050
+  },
+  {
+    "period": "2025150",
+    "date": "2025-12-28",
+    "red_balls": [
+      6,
+      13,
+      17,
+      19,
+      24,
+      31
+    ],
+    "blue_ball": 8,
+    "first_prize_count": 7,
+    "first_prize_amount": 7756937,
+    "second_prize_count": 208,
+    "second_prize_amount": 115976,
+    "sales_amount": 388447078,
+    "pool_amount": 2673213583
+  },
+  {
+    "period": "2025149",
+    "date": "2025-12-25",
+    "red_balls": [
+      1,
+      2,
+      4,
+      6,
+      22,
+      30
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 13,
+    "first_prize_amount": 6418616,
+    "second_prize_count": 130,
+    "second_prize_amount": 177327,
+    "sales_amount": 355328424,
+    "pool_amount": 2655142533
+  },
+  {
+    "period": "2025148",
+    "date": "2025-12-23",
+    "red_balls": [
+      3,
+      4,
+      9,
+      10,
+      15,
+      22
+    ],
+    "blue_ball": 16,
+    "first_prize_count": 8,
+    "first_prize_amount": 7480485,
+    "second_prize_count": 139,
+    "second_prize_amount": 178452,
+    "sales_amount": 353582370,
+    "pool_amount": 2669426999
+  },
+  {
+    "period": "2025147",
+    "date": "2025-12-21",
+    "red_balls": [
+      1,
+      3,
+      5,
+      8,
+      22,
+      33
+    ],
+    "blue_ball": 8,
+    "first_prize_count": 21,
+    "first_prize_amount": 5719540,
+    "second_prize_count": 118,
+    "second_prize_amount": 160067,
+    "sales_amount": 392695744,
+    "pool_amount": 2654856315
+  },
+  {
+    "period": "2025146",
+    "date": "2025-12-18",
+    "red_balls": [
+      5,
+      7,
+      12,
+      24,
+      26,
+      28
+    ],
+    "blue_ball": 2,
+    "first_prize_count": 9,
+    "first_prize_amount": 7076977,
+    "second_prize_count": 192,
+    "second_prize_amount": 121697,
+    "sales_amount": 365633358,
+    "pool_amount": 2718302859
+  },
+  {
+    "period": "2025145",
+    "date": "2025-12-16",
+    "red_balls": [
+      11,
+      12,
+      15,
+      18,
+      25,
+      32
+    ],
+    "blue_ball": 14,
+    "first_prize_count": 15,
+    "first_prize_amount": 6220919,
+    "second_prize_count": 89,
+    "second_prize_amount": 257216,
+    "sales_amount": 356306424,
+    "pool_amount": 2711897665
+  },
+  {
+    "period": "2025144",
+    "date": "2025-12-14",
+    "red_balls": [
+      1,
+      8,
+      15,
+      20,
+      26,
+      33
+    ],
+    "blue_ball": 13,
+    "first_prize_count": 18,
+    "first_prize_amount": 6211544,
+    "second_prize_count": 180,
+    "second_prize_amount": 151443,
+    "sales_amount": 379272340,
+    "pool_amount": 2736534730
+  },
+  {
+    "period": "2025143",
+    "date": "2025-12-11",
+    "red_balls": [
+      2,
+      9,
+      12,
+      13,
+      15,
+      24
+    ],
+    "blue_ball": 3,
+    "first_prize_count": 7,
+    "first_prize_amount": 8038443,
+    "second_prize_count": 81,
+    "second_prize_amount": 328226,
+    "sales_amount": 357498010,
+    "pool_amount": 2766563293
+  },
+  {
+    "period": "2025142",
+    "date": "2025-12-09",
+    "red_balls": [
+      2,
+      13,
+      15,
+      23,
+      27,
+      31
+    ],
+    "blue_ball": 16,
+    "first_prize_count": 3,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 79,
+    "second_prize_amount": 317297,
+    "sales_amount": 353205678,
+    "pool_amount": 2743073255
+  },
+  {
+    "period": "2025141",
+    "date": "2025-12-07",
+    "red_balls": [
+      2,
+      4,
+      5,
+      10,
+      12,
+      13
+    ],
+    "blue_ball": 6,
+    "first_prize_count": 10,
+    "first_prize_amount": 7082448,
+    "second_prize_count": 112,
+    "second_prize_amount": 232416,
+    "sales_amount": 390055596,
+    "pool_amount": 2697873796
+  },
+  {
+    "period": "2025140",
+    "date": "2025-12-04",
+    "red_balls": [
+      1,
+      3,
+      4,
+      12,
+      18,
+      24
+    ],
+    "blue_ball": 5,
+    "first_prize_count": 4,
+    "first_prize_amount": 9980899,
+    "second_prize_count": 126,
+    "second_prize_amount": 197654,
+    "sales_amount": 362437084,
+    "pool_amount": 2690606470
+  },
+  {
+    "period": "2025139",
+    "date": "2025-12-02",
+    "red_balls": [
+      2,
+      5,
+      17,
+      22,
+      30,
+      33
+    ],
+    "blue_ball": 6,
+    "first_prize_count": 3,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 142,
+    "second_prize_amount": 154433,
+    "sales_amount": 358264332,
+    "pool_amount": 2655816573
+  },
+  {
+    "period": "2025138",
+    "date": "2025-11-30",
+    "red_balls": [
+      10,
+      13,
+      14,
+      23,
+      24,
+      27
+    ],
+    "blue_ball": 15,
+    "first_prize_count": 2,
+    "first_prize_amount": 10000000,
+    "second_prize_count": 78,
+    "second_prize_amount": 326226,
+    "sales_amount": 396317254,
+    "pool_amount": 2620027948
+  },
+  {
+    "period": "2025137",
+    "date": "2025-11-27",
+    "red_balls": [
+      2,
+      8,
+      11,
+      23,
+      27,
+      29
+    ],
+    "blue_ball": 5,
+    "first_prize_count": 12,
+    "first_prize_amount": 6227322,
+    "second_prize_count": 114,
+    "second_prize_amount": 161489,
+    "sales_amount": 364942202,
+    "pool_amount": 2563690940
+  },
+  {
+    "period": "2025136",
+    "date": "2025-11-25",
+    "red_balls": [
+      8,
+      10,
+      14,
+      23,
+      28,
+      32
+    ],
+    "blue_ball": 12,
+    "first_prize_count": 43,
+    "first_prize_amount": 5467124,
+    "second_prize_count": 101,
+    "second_prize_amount": 248593,
+    "sales_amount": 361034006,
+    "pool_amount": 2583189299
+  },
+  {
+    "period": "2025135",
+    "date": "2025-11-23",
+    "red_balls": [
+      1,
+      2,
+      5,
+      9,
+      25,
+      32
+    ],
+    "blue_ball": 10,
+    "first_prize_count": 7,
+    "first_prize_amount": 7811499,
+    "second_prize_count": 104,
+    "second_prize_amount": 236544,
+    "sales_amount": 400247838,
+    "pool_amount": 2742951835
+  },
+  {
+    "period": "2025134",
+    "date": "2025-11-20",
+    "red_balls": [
+      3,
+      5,
+      9,
+      13,
+      26,
+      29
+    ],
+    "blue_ball": 12,
+    "first_prize_count": 12,
+    "first_prize_amount": 6386866,
+    "second_prize_count": 123,
+    "second_prize_amount": 169130,
+    "sales_amount": 374640566,
+    "pool_amount": 2723830474
+  },
+  {
+    "period": "2025133",
+    "date": "2025-11-18",
+    "red_balls": [
+      5,
+      14,
+      17,
+      19,
+      20,
+      33
+    ],
+    "blue_ball": 7,
+    "first_prize_count": 21,
+    "first_prize_amount": 5571098,
+    "second_prize_count": 148,
+    "second_prize_amount": 101292,
+    "sales_amount": 363914948,
+    "pool_amount": 2738063876
+  },
+  {
+    "period": "2025132",
+    "date": "2025-11-16",
+    "red_balls": [
+      4,
+      8,
+      10,
+      21,
+      23,
+      32
+    ],
+    "blue_ball": 11,
+    "first_prize_count": 8,
+    "first_prize_amount": 7322334,
+    "second_prize_count": 135,
+    "second_prize_amount": 172024,
+    "sales_amount": 409235610,
+    "pool_amount": 2810082951
+  },
+  {
+    "period": "2025131",
+    "date": "2025-11-13",
+    "red_balls": [
+      3,
+      13,
+      14,
+      18,
+      24,
+      31
+    ],
+    "blue_ball": 3,
+    "first_prize_count": 8,
+    "first_prize_amount": 7835944,
+    "second_prize_count": 98,
+    "second_prize_amount": 289382,
+    "sales_amount": 385122072,
+    "pool_amount": 2798991596
+  },
+  {
+    "period": "2025130",
+    "date": "2025-11-11",
+    "red_balls": [
+      1,
+      5,
+      8,
+      14,
+      19,
+      23
+    ],
+    "blue_ball": 6,
+    "first_prize_count": 14,
+    "first_prize_amount": 5638811,
+    "second_prize_count": 183,
+    "second_prize_amount": 61088,
+    "sales_amount": 377466594,
+    "pool_amount": 2776600809
+  },
+  {
+    "period": "2025129",
+    "date": "2025-11-09",
+    "red_balls": [
+      3,
+      4,
+      7,
+      13,
+      20,
+      30
+    ],
+    "blue_ball": 3,
+    "first_prize_count": 16,
+    "first_prize_amount": 6390891,
+    "second_prize_count": 194,
+    "second_prize_amount": 143390,
+    "sales_amount": 403899176,
+    "pool_amount": 2822006563
+  },
+  {
+    "period": "2025128",
+    "date": "2025-11-06",
+    "red_balls": [
+      2,
+      10,
+      18,
+      19,
+      24,
+      27
+    ],
+    "blue_ball": 1,
+    "first_prize_count": 7,
+    "first_prize_amount": 6365206,
+    "second_prize_count": 142,
+    "second_prize_amount": 84123,
+    "sales_amount": 371066844,
+    "pool_amount": 2840807340
+  },
+  {
     "period": "2025128",
     "date": "2025-11-06",
     "red_balls": [

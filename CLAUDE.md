@@ -7,6 +7,7 @@
 - React
 - Tailwind CSS
 - Shadcn/ui
+
 优先使用Shadcn/ui Component，没有的话调用shadcn mcp进行安装。
 
 ## 常用命令
