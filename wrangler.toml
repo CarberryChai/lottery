@@ -1,0 +1,11 @@
+name = "lottery"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lottery-db"
+database_id = "<运行 npx wrangler d1 create lottery-db 后填入>"
+
+# 定时任务：每天 UTC 14:00 = 北京时间 22:00
+[triggers]
+crons = ["0 14 * * *"]
